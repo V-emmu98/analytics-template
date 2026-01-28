@@ -1,17 +1,26 @@
 # Generative UI Analytics Template
 
+## 🚀 Vercel Deployment (Tested ✅)
+
+1. Fork this repository
+2. Deploy to Vercel (auto-detected)
+3. Add `API_KEY` to Vercel Environment Variables
+4. Live in ~41s 🎉
+
+Live demo: https://analytics-template.vercel.app
+
+---
+
 This is a generative UI analytics template.
 
 Generate graphs with natural language and use natural language to interact with and manage the UI.
 
 ## Features
-
 - Generate graphs inside the chat
 - Drag and drop onto a canvas
 - Edit canvases with natural language in the chat
 
 ## Demo
-
 <video src="./2025-08-30-tambo-analytics.mp4" controls width="720"></video>
 
 ## Get Started
